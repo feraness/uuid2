@@ -1,3 +1,3 @@
-module github.com/feraness/uuid/v5
+module github.com/feraness/uuid/v2
 
-go 1.19
+go 1.20
