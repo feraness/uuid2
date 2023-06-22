@@ -283,3 +283,7 @@ func Must(u UUID, err error) UUID {
 	}
 	return u
 }
+
+func init() {
+	fmt.Println("LIB INIT XXX")
+}
